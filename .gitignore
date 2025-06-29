@@ -1,0 +1,4 @@
+# Ignore all image files
+*.img
+*.img.gz
+*.zip
